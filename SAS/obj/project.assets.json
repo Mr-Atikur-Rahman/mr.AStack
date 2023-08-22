@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\mr_a\\.nuget\\packages\\": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mr_a\\Downloads\\Csharp_B14_Atik\\SAS\\SAS.csproj",
+      "projectUniqueName": "E:\\C#_Devskill\\C#B14\\Csharp_B14_Atik\\SAS\\SAS.csproj",
       "projectName": "SAS",
-      "projectPath": "C:\\Users\\mr_a\\Downloads\\Csharp_B14_Atik\\SAS\\SAS.csproj",
-      "packagesPath": "C:\\Users\\mr_a\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mr_a\\Downloads\\Csharp_B14_Atik\\SAS\\obj\\",
+      "projectPath": "E:\\C#_Devskill\\C#B14\\Csharp_B14_Atik\\SAS\\SAS.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "E:\\C#_Devskill\\C#B14\\Csharp_B14_Atik\\SAS\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\mr_a\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

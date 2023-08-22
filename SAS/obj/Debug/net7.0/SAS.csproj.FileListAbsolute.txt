@@ -26,3 +26,17 @@ C:\Users\mr_a\Downloads\Csharp_B14_Atik\SAS\obj\Debug\net7.0\refint\SAS.dll
 C:\Users\mr_a\Downloads\Csharp_B14_Atik\SAS\obj\Debug\net7.0\SAS.pdb
 C:\Users\mr_a\Downloads\Csharp_B14_Atik\SAS\obj\Debug\net7.0\SAS.genruntimeconfig.cache
 C:\Users\mr_a\Downloads\Csharp_B14_Atik\SAS\obj\Debug\net7.0\ref\SAS.dll
+E:\C#_Devskill\C#B14\Csharp_B14_Atik\SAS\bin\Debug\net7.0\SAS.exe
+E:\C#_Devskill\C#B14\Csharp_B14_Atik\SAS\bin\Debug\net7.0\SAS.deps.json
+E:\C#_Devskill\C#B14\Csharp_B14_Atik\SAS\bin\Debug\net7.0\SAS.runtimeconfig.json
+E:\C#_Devskill\C#B14\Csharp_B14_Atik\SAS\bin\Debug\net7.0\SAS.dll
+E:\C#_Devskill\C#B14\Csharp_B14_Atik\SAS\bin\Debug\net7.0\SAS.pdb
+E:\C#_Devskill\C#B14\Csharp_B14_Atik\SAS\obj\Debug\net7.0\SAS.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#_Devskill\C#B14\Csharp_B14_Atik\SAS\obj\Debug\net7.0\SAS.AssemblyInfoInputs.cache
+E:\C#_Devskill\C#B14\Csharp_B14_Atik\SAS\obj\Debug\net7.0\SAS.AssemblyInfo.cs
+E:\C#_Devskill\C#B14\Csharp_B14_Atik\SAS\obj\Debug\net7.0\SAS.csproj.CoreCompileInputs.cache
+E:\C#_Devskill\C#B14\Csharp_B14_Atik\SAS\obj\Debug\net7.0\SAS.dll
+E:\C#_Devskill\C#B14\Csharp_B14_Atik\SAS\obj\Debug\net7.0\refint\SAS.dll
+E:\C#_Devskill\C#B14\Csharp_B14_Atik\SAS\obj\Debug\net7.0\SAS.pdb
+E:\C#_Devskill\C#B14\Csharp_B14_Atik\SAS\obj\Debug\net7.0\SAS.genruntimeconfig.cache
+E:\C#_Devskill\C#B14\Csharp_B14_Atik\SAS\obj\Debug\net7.0\ref\SAS.dll
